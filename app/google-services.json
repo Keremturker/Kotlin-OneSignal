@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219222856165",
+    "project_id": "kotlin-onesignal-ff3f0",
+    "storage_bucket": "kotlin-onesignal-ff3f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219222856165:android:f067213b9000239ec55f0c",
+        "android_client_info": {
+          "package_name": "com.keremturker.kotlin_onesignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219222856165-fq732cj8nduj130aotbfged6hc7vefre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2YrTQufaUhrRG6FOyc3RANZmm9mXyG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219222856165-fq732cj8nduj130aotbfged6hc7vefre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
